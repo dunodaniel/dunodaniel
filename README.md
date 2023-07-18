@@ -7,7 +7,7 @@ I'm a technology student in Multiplatform Software Development at Fatec Itaquera
 
 ### 🙃 About me...
 - 🔭 I’m currently working on personal and university projects.
-- 🌱 I’m currently learning Express, Django and React.
+- 🌱 I’m currently learning Express, Django, React and MongoDB.
 - 📫 How to reach me: this.daniel@outlook.com
 - ⚡ Fun fact: I love discovering new places!
 - 😄 Pronouns: Duno
