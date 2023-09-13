@@ -1,4 +1,4 @@
-# Hello people! 👋
+# Hi ! 👋
 
 I'm a Junior BackEnd Developer, studying <strong>Software Development at State Center for Technological Education Paula Souza</strong>, diving into algorithms, programming and data structures in Python, JavaScript, C and C#.<br><br>
 I've already started putting my knowledge into practice in projects involving Django, Express and React. Also, I'm exploring the wonders of FastAPI.<br><br>
