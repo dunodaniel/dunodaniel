@@ -1,8 +1,9 @@
 # Hi ! 👋
 
-I'm a Junior BackEnd Developer, studying <strong>Software Development at State Center for Technological Education Paula Souza</strong>, diving into algorithms, programming and data structures in Python, JavaScript, C and C#.<br><br>
-I've already started putting my knowledge into practice in projects involving Django, Express and React. Also, I'm exploring the wonders of FastAPI.<br><br>
-Committed to continuous learning, currently expanding my horizons in Data Analytics through Growth with Google, exploring spreadsheets, SQL, R programming and Tableau.<br>
+Sou Desenvolvedor BackEnd Júnior, cursando Desenvolvimento de Software no Fatec Itaquera, mergulhando em algoritmos, programação e estruturas de dados em Python, JavaScript, C e C#.<br>
+
+Já comecei a colocar meus conhecimentos em prática em projetos envolvendo Django, Express e React. Além disso, estou explorando as maravilhas do FastAPI.
+<br><br>
 
 #
 
